@@ -27,4 +27,4 @@ GregoRail is always open for improvement! Should you encounter a bug while using
 
 ## License
 
-GregoRail is licensed under the GNU LGPL 3.0 license. See the [license file](LICENSE.txt) for more information.
+GregoRail is licensed under the GNU GPL 3.0 license. See the [license file](LICENSE.txt) for more information.
